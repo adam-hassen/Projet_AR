@@ -62,4 +62,7 @@ L'interface a été entièrement redessinée depuis le code C# :
 - Amélioration du positionnement relatif des deux personnages dans la scène AR
 
 ---
+## 📱 APK — Téléchargement et Installation
+
+L'APK fonctionnel de l'application est disponible dans la section **Releases** de ce dépôt.
 
